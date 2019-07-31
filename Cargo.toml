@@ -1,0 +1,8 @@
+[package]
+name = "StatisticalSignalProcessing"
+version = "0.1.0"
+authors = ["Scott Teal <scott.teal@kollmorgen.com>"]
+edition = "2018"
+
+[dependencies]
+statrs = "0.11"
